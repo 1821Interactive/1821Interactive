@@ -90,14 +90,14 @@ ul {
 }
 
 .icon {
-  color: deeppink;
+  color: #fff;
   font-size: 60px;
   display: block;
 }
 
 ul .icon:hover {
   opacity: 0.6;
-  font-size: 60px;
+
 }
 
 #p1 .icon .title {

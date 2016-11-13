@@ -140,10 +140,8 @@ ul {
  }
 
 ul li {
-  float: left;
-  clear:left;
-  margin: 50px;
-  margin-top: 0;
+
+  margin: 50px 0;
 
 
 }
